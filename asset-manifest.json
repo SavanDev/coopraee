@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/coopraee/static/css/main.0a1670fc.css",
-    "main.js": "/coopraee/static/js/main.facb7a86.js",
+    "main.js": "/coopraee/static/js/main.3d6c5abe.js",
     "static/js/453.135afe70.chunk.js": "/coopraee/static/js/453.135afe70.chunk.js",
     "static/media/cepraee.jpg": "/coopraee/static/media/cepraee.9332f270d327319eec54.jpg",
     "index.html": "/coopraee/index.html",
     "main.0a1670fc.css.map": "/coopraee/static/css/main.0a1670fc.css.map",
-    "main.facb7a86.js.map": "/coopraee/static/js/main.facb7a86.js.map",
+    "main.3d6c5abe.js.map": "/coopraee/static/js/main.3d6c5abe.js.map",
     "453.135afe70.chunk.js.map": "/coopraee/static/js/453.135afe70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a1670fc.css",
-    "static/js/main.facb7a86.js"
+    "static/js/main.3d6c5abe.js"
   ]
 }
