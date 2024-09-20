@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a3987ee.css",
+    "main.js": "/static/js/main.f65cd5b2.js",
+    "static/js/453.135afe70.chunk.js": "/static/js/453.135afe70.chunk.js",
+    "static/media/cepraee.jpg": "/static/media/cepraee.9332f270d327319eec54.jpg",
+    "index.html": "/index.html",
+    "main.0a3987ee.css.map": "/static/css/main.0a3987ee.css.map",
+    "main.f65cd5b2.js.map": "/static/js/main.f65cd5b2.js.map",
+    "453.135afe70.chunk.js.map": "/static/js/453.135afe70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a3987ee.css",
+    "static/js/main.f65cd5b2.js"
+  ]
+}
