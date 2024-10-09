@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 const App: React.FC = () => {
 	return (
-		<Router>
+		<>
 			<NavigationBar />
 			<Routes>
 				<Route path="/" element={<Home />} />
@@ -16,7 +16,7 @@ const App: React.FC = () => {
 				<Route path="/contact" element={<Contact />} />
 			</Routes>
 			<Footer />
-		</Router>
+		</>
 	);
 };
 

@@ -23,7 +23,7 @@ const About: React.FC = () => {
 					</Col>
 					<Col className="my-auto text-center">
 						<img
-							src="/img/CoopRAEE_blanco.png"
+							src="img/CoopRAEE_blanco.png"
 							className="d-inline-block align-top"
 						/>
 					</Col>

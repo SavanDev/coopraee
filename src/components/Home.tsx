@@ -8,7 +8,7 @@ const Home: React.FC = () => {
 		<>
 			<Container className="cepraee p-5" fluid>
 				<Container className="text-center text-white cepraee-text p-4 rounded">
-					<img src="/img/counter.png" />
+					<img src="img/counter.png" />
 					<h1 className="display-2">
 						¡Bienvenidos a <b className="text-success">CoopRAEE</b>!
 					</h1>
@@ -76,7 +76,7 @@ const Home: React.FC = () => {
 					</Col>
 					<Col className="my-auto text-center">
 						<img
-							src="/img/CoopRAEE_sin_leyenda_negro.png"
+							src="img/CoopRAEE_sin_leyenda_negro.png"
 							className="d-inline-block align-top"
 						/>
 					</Col>

@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
 				<Row>
 					<Col md={4} className="text-center">
 						<img
-							src="./img/CoopRAEE_sin_leyenda_blanco.png"
+							src="img/CoopRAEE_sin_leyenda_blanco.png"
 							className="w-50 py-4"
 						/>
 					</Col>

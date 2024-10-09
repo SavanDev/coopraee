@@ -60,7 +60,7 @@ const Contact: React.FC = () => {
 				</Col>
 				<Col className="my-auto text-center">
 					<img
-						src="/img/CoopRAEE_sin_leyenda_blanco.png"
+						src="img/CoopRAEE_sin_leyenda_blanco.png"
 						className="d-inline-block align-top"
 					/>
 				</Col>

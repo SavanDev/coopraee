@@ -9,8 +9,7 @@ const NavigationBar: React.FC = () => {
 			<Container>
 				<Navbar.Brand href="/" className="text-white">
 					<img
-						alt=""
-						src="/img/CoopRAEE_blanco.png"
+						src="img/CoopRAEE_blanco.png"
 						width="30"
 						height="30"
 						className="d-inline-block align-top me-2"
